@@ -11,7 +11,7 @@ function App() {
       <br />
 
       <button onClick={() => setIsVisible(!isVisible)}>Toogle Counter</button>
-      <Counter />
+      
     </div>
   );
 }
